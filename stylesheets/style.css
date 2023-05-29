@@ -1,0 +1,57 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+
+
+/*import desde google fonts , de la familia escogida en fontjoy*/
+
+*{
+    font-family: Arial, sans-serif;
+}
+
+ 
+.titulo2 {
+    font-family: Times New Roman, serif;
+    }
+P { text-align: center}
+h2 { text-align: center }
+h1 { text-align: center }
+
+h1 {
+    font-family: 'Montserrat';
+    }
+
+
+
+
+
+#title2,#Informacionpersonal {
+
+    background-color:#82c4be ;
+
+}
+
+section#education h2{
+    color: red;
+}
+
+a {
+    text-decoration: none; /* Elimina el subrayado */
+    font-size: 1.2rem; /* Aplica un tamaño de fuente de 1.2rem */
+  }
+
+#foto {
+    border: 1pt solid black;
+    padding: 1.1rem;
+    margin-top: 10px;
+    margin-left: 10%;
+    margin-right: 0%;
+    margin-bottom: 2px;
+
+}
+
+
+
+section#mapa {
+    display: block;
+    margin-left: 30%;
+    margin-right: 30% }
